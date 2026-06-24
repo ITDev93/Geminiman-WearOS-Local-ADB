@@ -57,10 +57,10 @@
 					/* Wear OS inspired 4-color gradient */
 					background: linear-gradient(
 						90deg,
-						#ea4335 0%,
-						#fbbc05 33%,
-						#34a853 66%,
-						#4285f4 100%
+						#4285f4 0%,
+						#34a853 33%,
+						#fbbc05 66%,
+						#ea4335 100%
 					);
 					background-size: 300% 300%;
 					animation: gradientBackground 5s ease infinite;
